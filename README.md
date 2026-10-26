@@ -2,6 +2,8 @@
 
 ## Overview
 
+XMLLib package for the Ring programming language
+
 XMLLib is a pure Ring library for building and parsing XML documents. 
 
 It requires no external dependencies and works on Windows, Linux, and macOS.
